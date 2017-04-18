@@ -1,8 +1,7 @@
 /*
  * InterbusDefinitions.h
  *
- *  Created on: 07.10.2016
- *      Author: moritz
+ *      Author: Moritz Morawietz
  */
 
 #ifndef UTILS_COMMANDAGGREGATOR_H_

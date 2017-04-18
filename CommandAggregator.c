@@ -1,8 +1,7 @@
 /*
  * InterbusDriver.c
  *
- *  Created on: 11.10.2016
- *      Author: moritz
+ *      Author: Moritz Morawietz
  */
 
 #include "CommandAggregator.h"
